@@ -4,6 +4,9 @@ const Cart = () => {
   return (
     <section class="text-gray-600 body-font">
       <div class="container px-16 py-24 mx-auto ">
+        <h1 className="text-center font-bold text-2xl py-6 text-red-900">
+          Books
+        </h1>
         <div class="flex flex-wrap  -m-4">
           <div class=" p-6 md:w-1/3 shadow-md">
             <div class="h-full border-2 border-gray-200 border-opacity-60 rounded-lg overflow-hidden">
